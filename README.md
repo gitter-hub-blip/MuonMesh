@@ -1,6 +1,5 @@
-# Neutrinonet TCP Kernel
+# MuonMesh TCP Kernel
 
-## Considering the name crash with [neutrinet](https://neutrinet.be/), coming project updates will be migrated to [MuonMesh](https://github.com/gitter-hub-blip/MuonMesh)
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 This is a small Go TCP connection-management program. Each instance starts a
